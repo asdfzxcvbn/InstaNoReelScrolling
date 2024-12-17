@@ -1,0 +1,10 @@
+Package: fyi.zxcvbn.instanoreelscrolling
+Name: InstaNoReelScrolling
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: something
+Author: zxcvbn
+Maintainer: zxcvbn
+Section: Tweaks
+Depends: firmware (>= 15.1)
+
